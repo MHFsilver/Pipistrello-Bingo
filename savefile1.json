@@ -1,0 +1,103 @@
+{
+"roomId": "city/ren223",
+"x": 504,
+"y": 158,
+"faceDir": 3,
+"isCheckpoint": false,
+"date": 1754844161,
+"frames": 0,
+"framesInGameplay": 0,
+"distanceTraveled": 0,
+"distanceTraveledWalkTheDog": 0,
+"distanceTraveledWallRailing": 0,
+"timesplits": [
+],
+"timerMode": "None",
+"timerFrames": 0,
+"counterMode": "",
+"life": 3,
+"money": 0,
+"defeatCounter": 0,
+"petalContainers": 0,
+"bpContainers": 0,
+"safehouseFramestamp": 0,
+"safehouseExitId": null,
+"yoyoHolderId": null,
+"debtUpgradeId": null,
+"debtAmountPaid": 0,
+"heldObjectId": null,
+"holdableObjects": [
+],
+"followingObjectIds": [
+],
+"taxiPhonesUnlocked": [
+],
+"mapPins": [
+{
+"objectId": "city/ren223/yug5533",
+"pinId": "blocker",
+"x": 800,
+"y": 504
+},
+{
+"objectId": "city/ren223/lor2057",
+"pinId": "taxiPhoneNew",
+"x": 440,
+"y": 392
+},
+{
+"objectId": "city/ren223/lor3244",
+"pinId": "shop",
+"x": 368,
+"y": 714
+},
+{
+"objectId": "city/ren223/yug3932",
+"pinId": "blocker",
+"x": 552,
+"y": 136
+},
+{
+"objectId": "city/ren223/yug5532",
+"pinId": "blocker",
+"x": 800,
+"y": 488
+},
+{
+"objectId": "city/ren223/yug5534",
+"pinId": "petalContainer",
+"x": 800,
+"y": 465
+}
+],
+"roomSequence": [
+],
+"locationId": "plaza1",
+"walkTrailMapId": null,
+"walkTrail": [
+],
+"flags": {
+"g:ability:menu": 1,
+"g:ability:move": 1,
+"g:ability:receiveDamage": 1,
+"g:ability:jump": 1,
+"g:ability:attack": 1,
+"g:ability:throw": 1,
+"g:ability:wallDash": 0,
+"g:ability:walkTheDog": 0,
+"g:ability:wallRailing": 0,
+"g:ability:helix": 0,
+"g:ability:chargedAction": 1,
+"g:ability:chargedSleeper": 0,
+"g:ability:chargedFlurry": 0,
+"g:ability:chargedSpread": 0,
+"g:ability:chargedSpin": 0,
+"g:ability:specialAction": 1,
+"g:ability:specialParry": 0,
+"g:ability:specialSpin": 0,
+"g:ability:specialCoinFlip": 0,
+"g:equipped:chargedAction": 0,
+"g:equipped:specialAction": 0,
+"g:prologue": 4
+}
+}

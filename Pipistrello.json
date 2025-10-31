@@ -1,0 +1,657 @@
+{
+  "version": "1.0.2",
+  "game": "Pipistrello",
+  "objectives": [
+    {
+      "goal": "Third Escape House Reward",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "challenges",
+        "rewards"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Second Escape House Reward",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "challenges",
+        "rewards"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Obtain FadaFest Ticket",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "city"
+      ],
+      "line_categories": [
+        "misc_items",
+        "rewards"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Arena Challenge 3",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "city",
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "challenges"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Arena Challenge 2",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "city",
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "challenges"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Arena Challenge 1",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "city",
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "challenges"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Third Museum Reward",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "challenges",
+        "rewards"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Second Museum Reward",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "rewards",
+        "challenges"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "First Museum Reward",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "misc_items",
+        "rewards"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Learn UFO Throw",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "dungeon"
+      ],
+      "line_categories": [
+        "moves"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Win {{X}} Random Encounters",
+      "range": [
+        3,
+        5,
+        10,
+        15
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "city",
+        "underground",
+        "dungeon",
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "challenges"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Earn {{X}} Money",
+      "range": [
+        1000,
+        10000,
+        5000
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "city",
+        "underground",
+        "dungeon",
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "money"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Store {{X}} Keys",
+      "range": [
+        1,
+        3,
+        5
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "city",
+        "underground",
+        "dungeon",
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "misc_items"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Store {{X}} Batteries",
+      "range": [
+        1,
+        3,
+        5
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "city",
+        "underground",
+        "dungeon",
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "misc_items"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "See Bad Ending",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "dungeon"
+      ],
+      "line_categories": [
+        "challenges"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Complete {{X}} Music Note Challenges",
+      "range": [
+        3,
+        5,
+        7
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "city",
+        "dungeon",
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "challenges"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Jump Rope Challenge 3",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "city"
+      ],
+      "line_categories": [
+        "challenges"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Jump Rope Challenge 2",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "city"
+      ],
+      "line_categories": [
+        "challenges"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Jump Rope Challenge 1",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "city"
+      ],
+      "line_categories": [
+        "challenges"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Buy Out a Shop",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "city"
+      ],
+      "line_categories": [
+        "rewards"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Kill an Enemy with Pigeons",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "city",
+        "underground",
+        "dungeon",
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "challenges"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Sell {{X}} Diamonds",
+      "range": [
+        1,
+        2,
+        3
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "city"
+      ],
+      "line_categories": [
+        "rewards",
+        "money"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Deliver {{X}} Burgers",
+      "range": [
+        1,
+        3
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "city"
+      ],
+      "line_categories": [
+        "misc_items"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Unlock {{X}} Upgrades",
+      "range": [
+        3,
+        5
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "city",
+        "underground",
+        "dungeon",
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "rewards"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Recruit {{X}} Fan-Club Members",
+      "range": [
+        3,
+        5,
+        8,
+        10,
+        15
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "city"
+      ],
+      "line_categories": [
+        "challenges"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Two Maps 100% Complete",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "city",
+        "underground",
+        "dungeon",
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "challenges"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "One Map 100% Complete",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "city"
+      ],
+      "line_categories": [
+        "rewards"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Obtain {{X}} BP Containers",
+      "range": [
+        2,
+        4,
+        6,
+        1
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "city",
+        "underground",
+        "dungeon",
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "misc_items"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Obtain {{X}} Petal Containers",
+      "range": [
+        2,
+        4,
+        6,
+        8
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "city",
+        "underground",
+        "dungeon",
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "misc_items"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Obtain 2 Cheater Badges",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "underground",
+        "city",
+        "dungeon",
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "badges"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Obtain 1 Cheater Badge",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "city",
+        "mini_dungeon",
+        "dungeon",
+        "underground"
+      ],
+      "line_categories": [
+        "badges"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Obtain {{X}} Badges",
+      "range": [
+        3,
+        5,
+        10
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "city",
+        "underground",
+        "dungeon",
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "badges"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Learn Cat's Craddle",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "city"
+      ],
+      "line_categories": [
+        "moves"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Learn Coin-Flip",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "underground"
+      ],
+      "line_categories": [
+        "moves"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Learn Sleeper",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "city"
+      ],
+      "line_categories": [
+        "moves"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Learn Parry",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "mini_dungeon"
+      ],
+      "line_categories": [
+        "moves"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Learn Around-The-World",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "city"
+      ],
+      "line_categories": [
+        "moves"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Carrara Battery",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "dungeon",
+        "city"
+      ],
+      "line_categories": [
+        "key_items"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Slime Tycoon Battery",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "dungeon"
+      ],
+      "line_categories": [
+        "key_items"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Toxy Battery",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "dungeon"
+      ],
+      "line_categories": [
+        "key_items"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Don Mauretti Battery",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "dungeon",
+        "city"
+      ],
+      "line_categories": [
+        "key_items"
+      ],
+      "tooltip": "",
+      "icons": []
+    }
+  ],
+  "limits": {
+    "board": {
+      "city": 100,
+      "underground": 100,
+      "dungeon": 100,
+      "mini_dungeon": 100
+    },
+    "line": {
+      "challenges": 25,
+      "money": 25,
+      "key_items": 10,
+      "misc_items": 25,
+      "badges": 10,
+      "rewards": 10,
+      "moves": 25
+    }
+  }
+}
